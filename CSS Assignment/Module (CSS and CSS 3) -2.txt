@@ -1,0 +1,65 @@
+                                                         Module (CSS and CSS 3) -2
+
+Q1->What are the benefits of using CSS? 
+Ans:-Benefits of CSS are:
+       ->Time Saving and faster loading times.
+      ->Enhance design option.
+      ->SEO Friendly.
+      ->Easier Maintenance and Efficient Updates.
+
+
+Q2->What are the disadvantages of CSS?  
+Ans:-Disadvantages of CSS are:
+        ->Complexity for beginners.
+       ->Cross-Browser Issue.
+      ->Lack of Security.
+
+
+Q3->What is the difference between CSS2 and CSS3? 
+Ans:-CSS 3 is the advance version of CSS 2 .In CSS 3 multiple new features are added in it to make efficient and easy to use.
+
+Q4-> Name a few CSS style components.
+Ans:-CSS Style Component are:
+        -Inline 
+        -Id Selector
+        -Attribute
+       -Margin
+       -Padding
+       -etc..
+
+Q5->What do you understand by CSS opacity?  
+Ans:-It specify the transparency of any element. The 1 value of opacity is indicate the opaque it means that it is fully visible and the value 0 is indicate the fully transparent the element.
+
+Q6->How can the background color of an element be changed? 
+Ans:-We can change the background of any element using the background property in CSS and target the particular element which we want to change it.
+
+Q7->How can image repetition of the backup be controlled?  
+Ans:-We can control the repetition of image using CSS property which is Background Repete is no repete.
+
+Q8->What is the use of the background-position property? 
+Ans:-Background position property is used ti set the position of any image in the web page.
+         -There are following position are available in CSS are:
+        -Static
+        -Sticky
+        -Relative
+        -Absolute
+       -Fixed
+       -Initial
+
+Q9-> Which property controls the image scroll in the background? 
+Ans:-Background Attachment property is used to control the image scroll in the background.
+
+
+Q10->Why should background and color be used as separate properties? 
+Ans:-
+
+
+
+
+
+
+
+
+
+
+
