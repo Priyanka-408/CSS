@@ -37,7 +37,7 @@ Q7->How can image repetition of the backup be controlled?
 Ans:-We can control the repetition of image using CSS property which is Background Repete is no repete.
 
 Q8->What is the use of the background-position property? 
-Ans:-Background position property is used ti set the position of any image in the web page.
+Ans:-Background position property is used to set the position of any image in the web page.
          -There are following position are available in CSS are:
         -Static
         -Sticky
@@ -51,6 +51,58 @@ Ans:-Background Attachment property is used to control the image scroll in the b
 
 
 Q10->Why should background and color be used as separate properties? 
+Ans:-Background property is used to apply the background of any element which is target and the Color Property is used to change the color of any element which we want to change.
+
+
+Q11->How to center block elements using CSS1? 
+Ans:-To center the block element we use the margin auto property of CSS and by applying the width of block element it will clearly visible that the block element is in the center.
+
+Q12->How to maintain the CSS specifications?  
+Ans:-The CSS specification is maintained by the World Wide Consortium (W3C)
+
+Q13-> What are the ways to integrate CSS as a web page?  
+Ans:-There are three ways to integrate the CSS as a web page are following:
+        ->Inline-In this all the property is written in the specific tag in the same HTML page.
+        ->Internal-In this we use the style tag inside the head section of the HTML page.
+       ->External-In this all the CSS property is apply on the another file of CSS which is link to the in the HTML page 
+           using link tag.
+       
+
+Q14-> What is embedded style sheets? 
+Ans:-It is the collection of all the CSS property which is inside the head section of the HTML page .
+
+Q15->What are the external style sheets? 
+Ans:-When we create the new file with the extension of .css 
+
+Q16->What are the advantages and disadvantages of using external style sheets? 
+Ans:-Advantages of External CSS:
+      -Code can be easy to understand and modify.
+     -We can  define multiple class in the external CSS.
+
+     Disadvantages of External CSS:
+      -Our page is not work properly if  the external CSS takes time to load that file.
+        
+
+Q17->What is the meaning of the CSS selector? 
+Ans:-CSS Selector are used to find the specific element which we want to change the style of that element.
+
+
+Q18-> What are the media types allowed by CSS?  
+Ans:-Audio Type:
+           -MP3,WAV,ogg,WMA,Real Audio,ACC.
+
+       Video Type:
+         -Flash,ogg,WebM,Real Video,WMV,MPEG,MP4,QuickTIme.
+
+     Image Type
+         -apng, avif, jpeg, png, webp,gif.
+
+
+Q19->What is the rule set?  
+Ans:-IT define thee structure of the selector which we are apply in the CSS.
+
+
+Q20->Create Layouts  
 Ans:-
 
 
